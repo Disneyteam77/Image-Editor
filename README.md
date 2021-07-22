@@ -1,8 +1,8 @@
-@disneygrou  updates
-@disneyteamchat report and support
+[@disneygrou](https://t.me/disneygrou) updates
+[@disneyteamchat](https://t.me/disneyteamchat)report and support
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam76/Image-Editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam77/Image-Editor)
 
 
 ## Configs
